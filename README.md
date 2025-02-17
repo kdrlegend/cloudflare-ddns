@@ -26,7 +26,7 @@ A bash script to automatically update Cloudflare DNS records with your current I
    git clone https://github.com/kdrlegend/cloudflare-ddns.git
    cd cloudflare-ddns
    ```
-2. Edit the script `cf-update-dns.sh` and update your API token, Zone ID, and subdomains.
+2. Edit the script `cf-update-dns.sh` and update your API token, Zone ID, and domains.
 
 ## Usage
 Make the script executable:
