@@ -2,9 +2,7 @@
 A bash script to automatically update Cloudflare DNS records with your current IP. Useful if your IP changes often.
 
 ## Features
-- Automatically fetches your public IP.
-- Updates multiple Cloudflare DNS records.
-- Skips updates if the IP hasn't changed.
+- Supports multiple records
 
 ## Requirements
 - A Cloudflare account.
